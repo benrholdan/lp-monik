@@ -1,5 +1,6 @@
 import { Inter } from 'next/font/google';
 import Script from 'next/script';
+import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 
 const inter = Inter({
