@@ -94,7 +94,9 @@ export const Bonuses = () => {
                  className="mt-12 flex justify-center"
                >
                  <a
-                   href="#oferta"
+                   href="https://pay.hotmart.com/I103599333T?bid=1770042403468"
+                   target="_blank"
+                   rel="noopener noreferrer"
                    className="inline-flex items-center gap-2 bg-[hsl(var(--sage))] text-white px-6 py-3 rounded-full font-semibold hover:bg-[hsl(var(--sage)/0.8)] transition-colors group"
                  >
                    Quero os Bônus Exclusivos

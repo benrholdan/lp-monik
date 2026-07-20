@@ -132,7 +132,7 @@ export const Mentor = () => {
 
             <motion.div variants={fadeInUp} className="mt-8">
               <a
-                href="https://pay.hotmart.com/I103599333T?bid=1767448472379"
+                href="https://pay.hotmart.com/I103599333T?bid=1770042403468"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary group inline-flex"
