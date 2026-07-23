@@ -148,9 +148,7 @@ export const Method = () => {
           className="mt-12 flex justify-center"
         >
           <a
-            href="https://pay.hotmart.com/I103599333T?bid=1770042403468"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#oferta"
             className="btn-primary group"
           >
             Quero o Guia Completo

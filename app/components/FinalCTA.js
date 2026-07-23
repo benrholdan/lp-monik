@@ -26,7 +26,7 @@ export const FinalCTA = () => {
   ];
 
   return (
-    <section id="oferta" className="section-spacing bg-gradient-dark relative overflow-hidden">
+    <section  className="section-spacing bg-gradient-dark relative overflow-hidden">
       <div className="absolute inset-0 bg-noise opacity-[0.03]" />
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[800px] w-[800px] rounded-full bg-[hsl(var(--paprika)/0.1)] blur-3xl" />
       
@@ -93,6 +93,7 @@ export const FinalCTA = () => {
                   href="https://pay.hotmart.com/I103599333T?bid=1770042403468"
                   target="_blank"
                   rel="noopener noreferrer"
+                  id="oferta"
                   className="group mt-8 flex w-full items-center justify-center gap-2 rounded-full bg-white py-4 max-md:px-4 text-base font-bold text-[hsl(var(--espresso))] transition-all hover:scale-[1.02] hover:shadow-lg"
                 >
                   QUERO TER ACESSO AO GUIA COMPLETO AGORA
