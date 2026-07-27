@@ -84,7 +84,7 @@ export const FinalCTA = () => {
                   </p>
                   <div className="mt-1 flex items-baseline justify-center gap-1">
                     <span className="text-2xl font-semibold text-white/80">$</span>
-                    <span className="text-7xl font-black tracking-tight text-white">47</span>
+                    <span className="text-7xl font-black tracking-tight text-white">37</span>
                   </div>
                   
                 </div>
